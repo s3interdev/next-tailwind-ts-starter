@@ -10,7 +10,7 @@ export const metadata = {
 		shortcut: './favicon.png',
 	},
 	title: 'Next.JS 13 Starter Template',
-	description: 'Next.JS 13 starter template',
+	description: 'Automate building of websites and web application projects using Next.JS 13, Tailwind CSS and Typescript.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
